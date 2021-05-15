@@ -2,7 +2,7 @@
 
 Hallo, jumpa lagi dengan tutorial saya, kali ini kita akan membuat Running LED atau LED nyala secara berjalan dari kiri ke kanan atau sebaliknya.  Disini saya menggunakan Arduino UNO, tapi teman-teman bisa saja menggunakan Arduino Nano, Mega, Due, dll. 
 
-Link Install Proteus Full Crack dan Cara Menambahkan Libabry Arduino 
+Link Install Proteus Full Crack dan Cara Menambahkan Library Arduino 
 https://youtu.be/C0X41Ggmra0
 
 Link LED Flip Flops Arduino Simulasi Proteus
